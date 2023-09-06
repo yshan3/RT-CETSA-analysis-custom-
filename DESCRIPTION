@@ -1,0 +1,8 @@
+Package: RT-CETSA-Analysis
+Type: Package
+Title: Your Package Title
+Version: 0.1.0
+Author: Your Name
+Maintainer: Your Email Address
+Description: A brief description of your package.
+License: What license it uses
